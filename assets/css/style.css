@@ -108,7 +108,7 @@ a:hover {
 
 #about {
     width:calc(100% - 440px);
-    height: auto;
+    height:800px;
     border:1px solid #dddddd;
     margin-right:50px;
     margin-top:25px;
